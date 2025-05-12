@@ -1,0 +1,68 @@
+.ab{
+    font-size: 40px;
+    text-decoration: none;
+    /* margin-left: 0px; */
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-shadow: 5px 5px 1px blueviolet;
+}
+
+.x a{
+    font-size: larger;
+    text-decoration: none;
+    margin-right: 90px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(241, 12, 180);
+    font-weight: 1000;
+    transition: 0.5s ease-in-out;
+}
+
+.x a:hover{
+    color: red;
+    scale: 1.2;
+}
+
+.icons i{
+    color: blue;
+}
+
+.icons div{
+    margin-left: 50px;
+}
+#carouselExampleCaptions img{
+    height: 700px;
+}
+
+.about{
+    font-size: 18px;
+    font-style: italic;
+}
+
+.card img{
+    width: 300px;
+    height: 350px;
+}
+
+.cardstyle{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+.card{
+    transition: 0.5s ease-in-out;
+    width: 300px;
+}
+
+.card:hover{
+    scale: 1.1;
+}
+
+.card-body p{
+    font-size: large;
+    font-weight: 600;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
